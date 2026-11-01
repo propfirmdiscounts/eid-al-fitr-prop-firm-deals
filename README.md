@@ -2,13 +2,13 @@
 
 As of 2026-05-27, 14 Eid Al-Fitr deals from 10 prop firms are tracked, 14 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Eid Al-Fitr discount codes in the 2026 season are 70% OFF with code PFD at Funded Hero, 30% OFF with code PFDC at PipFarm, 25% OFF with code JACKICHUN at Finotive Funding, 20% OFF with code PFD at WeMasterTrade, and 20% OFF with code PFD at thePropTrade.
+The biggest verified Eid Al-Fitr discount codes in the 2026 season are 62% OFF with code PFD at Funded Hero, 30% OFF with code PFDC at PipFarm, 25% OFF with code JACKICHUN at Finotive Funding, 20% OFF with code PFD at WeMasterTrade, and 20% OFF with code PFD at thePropTrade.
 
 ## Prop Firms with the Highest Discount Codes in Eid Al-Fitr 2026
 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest Eid Al-Fitr deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Funded Hero | PFD | 70% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) | 65% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 1 | Funded Hero | PFD | 62% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) | 65% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 2 | PipFarm | PFDC | 30% | 33% Off Evaluation Pricing and 1% Swap-Free Add-on Structure | 33% off | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | 3 | Finotive Funding | JACKICHUN | 25% | 40% Sitewide Eid Al-Fitr Challenge Pricing | 40% off | Ended | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | 4 | WeMasterTrade | PFD | 20% | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | 25% off | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
@@ -39,11 +39,11 @@ The newest is **15% Off Evaluation and Instant Accounts Eid Promotion** from For
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 10 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 70% off with code PFD at Funded Hero. The code is separate from the Eid Al-Fitr offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 10 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 62% off with code PFD at Funded Hero. The code is separate from the Eid Al-Fitr offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 15% off. Standing discount codes among these firms run up to 70% off, and every deal in the history below states its own figure.
+The newest deal is 15% off. Standing discount codes among these firms run up to 62% off, and every deal in the history below states its own figure.
 
 ---
 
