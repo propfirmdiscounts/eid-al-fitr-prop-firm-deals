@@ -2,22 +2,22 @@
 
 As of 2026-05-27, 14 Eid Al-Fitr deals from 10 prop firms are tracked, 14 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Eid Al-Fitr discount codes in the 2026 season are 62% OFF with code PFD at Funded Hero, 30% OFF with code PFDC at PipFarm, 25% OFF with code JACKICHUN at Finotive Funding, 20% OFF with code PFD at WeMasterTrade, and 20% OFF with code PFD at thePropTrade.
+The biggest verified Eid Al-Fitr discount codes in the 2026 season are 65% OFF with code PFD at Funded Hero.
 
 ## Prop Firms with the Highest Discount Codes in Eid Al-Fitr 2026
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest Eid Al-Fitr deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest Eid Al-Fitr deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Funded Hero | PFD | 62% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) | 65% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 2 | PipFarm | PFDC | 30% | 33% Off Evaluation Pricing and 1% Swap-Free Add-on Structure | 33% off | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 3 | Finotive Funding | JACKICHUN | 25% | 40% Sitewide Eid Al-Fitr Challenge Pricing | 40% off | Ended | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 4 | WeMasterTrade | PFD | 20% | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | 25% off | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
-| 5 | thePropTrade | PFD | 20% | 20% Discount and 100% Profit Split on Classic and Instant Funding Evaluation Pricing | 20% off | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
-| 6 | CK PropFirm | PFD | 10% | 70% Off All Evaluations and 60% Off Resets For Eid Al-Fitr | 70% off | Ended | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 7 | Forex Funds Flow | PFD | 10% | 15% Off Evaluation and Instant Accounts Eid Promotion | 15% off | Ended | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
-| 8 | Funded Trading Plus | PFD | 10% | 15% Reduction on Direct Funding Purchase Cost for Eid Al-Fitr | 15% off | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 9 | ThinkCapital | PFD | 10% | 20% Off 5K to 50K Evaluation Accounts for Eid Al-Fitr | 20% off | Ended | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
-| 10 | Funding Your Trades | PFD | 2% | 45% Off and Buy 1 Get 3 Eid Al-Fitr Offer | 45% off | Ended | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
+| 1 | Funded Hero | PFD | 65% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 2 | PipFarm | PFDC | 30% | 33% Off Evaluation Pricing and 1% Swap-Free Add-on Structure | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-33-off-all-challenges-eid-al-fitr/) | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 3 | Finotive Funding | JACKICHUN | 25% | 40% Sitewide Eid Al-Fitr Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-40-sitewide-eid-discount/) | Ended | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
+| 4 | WeMasterTrade | PFD | 20% | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/) | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| 5 | thePropTrade | PFD | 20% | 20% Discount and 100% Profit Split on Classic and Instant Funding Evaluation Pricing | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-discount-100-profit-split-classic-instant-funding/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| 6 | CK PropFirm | PFD | 10% | 70% Off All Evaluations and 60% Off Resets For Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-eid-al-fitr/) | Ended | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 7 | Forex Funds Flow | PFD | 10% | 15% Off Evaluation and Instant Accounts Eid Promotion | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
+| 8 | Funded Trading Plus | PFD | 10% | 15% Reduction on Direct Funding Purchase Cost for Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-15-off-instant-funding-eid-al-fitr-2026/) | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 9 | ThinkCapital | PFD | 10% | 20% Off 5K to 50K Evaluation Accounts for Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-5k-50k-eid-al-fitr/) | Ended | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
+| 10 | Funding Your Trades | PFD | 2% | 45% Off and Buy 1 Get 3 Eid Al-Fitr Offer | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-eid-al-fitr/) | Ended | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 
 The newest is **15% Off Evaluation and Instant Accounts Eid Promotion** from Forex Funds Flow — 15% off.
 
@@ -106,11 +106,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
