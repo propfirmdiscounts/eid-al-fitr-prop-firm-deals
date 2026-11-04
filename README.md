@@ -1,6 +1,6 @@
 # Eid Al-Fitr Prop Firm Discount Codes (2026)
 
-As of 2026-05-27, 14 Eid Al-Fitr deals from 10 prop firms are tracked, 14 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
+As of 2026-05-27, 14 Eid Al-Fitr deals from 10 prop firms are tracked, 14 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Eid Al-Fitr discount codes in the 2026 season are 65% OFF with code PFD at Funded Hero.
 
