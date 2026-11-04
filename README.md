@@ -39,11 +39,11 @@ The newest is **15% Off Evaluation and Instant Accounts Eid Promotion** from For
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 10 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 62% off with code PFD at Funded Hero. The code is separate from the Eid Al-Fitr offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 10 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 60% off with code PFD at Funded Hero. The code is separate from the Eid Al-Fitr offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 15% off. Standing discount codes among these firms run up to 62% off, and every deal in the history below states its own figure.
+The newest deal is 15% off. Standing discount codes among these firms run up to 60% off, and every deal in the history below states its own figure.
 
 ---
 
