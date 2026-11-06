@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: "eidalfitrpropfirm"
+  HF_NAMESPACE: "prop-firm"
   EVENT_SLUG: "eid"
   EVENT_NAME: "Eid Al-Fitr"
   REPO_NAME: "eid-al-fitr-prop-firm-deals"
