@@ -1,38 +1,41 @@
-# Eid Al-Fitr Prop Firm Discount Codes (2026)
+# Eid Al-Fitr Prop Firm Deals & Discount Codes (2026)
 
-This Eid Al-Fitr, 14 deals from 10 prop firms are tracked, with 14 published during the 2026 season. Every firm carries a verified discount code that works year-round.
+Explore Eid Al-Fitr prop firm deals and discount codes from 10 proprietary trading firms, with 14 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Eid Al-Fitr discount codes in the 2026 season are 65% OFF with code PFD at Funded Hero.
 
-## Prop Firms with the Highest Discount Codes in Eid Al-Fitr 2026
+## Prop Firms with the Highest Eid Al-Fitr Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Eid Al-Fitr deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Funded Hero | PFD | 65% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) | Ended | [Funded Hero Page](https://propfirmdiscount.com/prop-firm/funded-hero/) |
 | 2 | PipFarm | PFDC | 30% | 33% Off Evaluation Pricing and 1% Swap-Free Add-on Structure | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-33-off-all-challenges-eid-al-fitr/) | Ended | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
-| 3 | Finotive Funding | JACKICHUN | 25% | 40% Sitewide Eid Al-Fitr Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-40-sitewide-eid-discount/) | Ended | [Finotive Funding Page](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
-| 4 | Funded Trading Plus | PFD | 20% | 15% Reduction on Direct Funding Purchase Cost for Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-15-off-instant-funding-eid-al-fitr-2026/) | Ended | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
-| 5 | WeMasterTrade | PFD | 20% | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/) | Ended | [WeMasterTrade Page](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
+| 3 | WeMasterTrade | PFD | 30% | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/) | Ended | [WeMasterTrade Page](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
+| 4 | Finotive Funding | PFDC | 25% | 40% Sitewide Eid Al-Fitr Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-40-sitewide-eid-discount/) | Ended | [Finotive Funding Page](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
+| 5 | Funded Trading Plus | PFD | 20% | 15% Reduction on Direct Funding Purchase Cost for Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-15-off-instant-funding-eid-al-fitr-2026/) | Ended | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
 | 6 | thePropTrade | PFD | 20% | 20% Discount and 100% Profit Split on Classic and Instant Funding Evaluation Pricing | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-discount-100-profit-split-classic-instant-funding/) | Ended | [thePropTrade Page](https://propfirmdiscount.com/prop-firm/the-prop-trade/) |
 | 7 | CK PropFirm | PFD | 10% | 70% Off All Evaluations and 60% Off Resets For Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-eid-al-fitr/) | Ended | [CK PropFirm Page](https://propfirmdiscount.com/prop-firm/ckcapital/) |
 | 8 | Forex Funds Flow | PFD | 10% | 15% Off Evaluation and Instant Accounts Eid Promotion | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/) | Ended | [Forex Funds Flow Page](https://propfirmdiscount.com/prop-firm/forex-funds-flow/) |
 | 9 | ThinkCapital | PFD | 10% | 20% Off 5K to 50K Evaluation Accounts for Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-5k-50k-eid-al-fitr/) | Ended | [ThinkCapital Page](https://propfirmdiscount.com/prop-firm/thinkcapital/) |
 | 10 | Funding Your Trades | PFD | 2% | 45% Off and Buy 1 Get 3 Eid Al-Fitr Offer | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-eid-al-fitr/) | Ended | [Funding Your Trades Page](https://propfirmdiscount.com/prop-firm/funding-your-trades/) |
 
-The newest is **15% Off Evaluation and Instant Accounts Eid Promotion** from Forex Funds Flow — 15% off.
+The latest recorded Eid Al-Fitr-tagged promotion is Forex Funds Flow offering 15% Off Evaluation and Instant Accounts Eid Promotion, published on May 27, 2026. The offer has since ended.
 
 - Event: Eid Al-Fitr
-- Deals tracked: 14 (14 in 2026)
-- Firms: 10
+- Eid Al-Fitr deals in this dataset: 14
+- Firms represented: 10
+- Deals published in 2026: 14
 - Firms with a code in the 2026 season: 10
 - Newest deal: 2026-05-27
-- Deals tagged on the site: 20 (14 of them from firms with a verified code, listed below)
 - GitHub repository: [Eid Al-Fitr Deals Repository](https://github.com/propfirmdiscounts/eid-al-fitr-prop-firm-deals)
+- All Eid Al-Fitr-tagged deals on the main site: 20 (14 of them from firms with a verified code, listed below)
 - Event page: [Eid Al-Fitr Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/eid/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## Eid Al-Fitr prop firm deals FAQ
+This repository includes Eid Al-Fitr-tagged deals from firms with a verified standing discount code. The main website may contain additional Eid Al-Fitr-tagged promotions from firms that are not included in this dataset.
+
+## Eid Al-Fitr Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest Eid Al-Fitr prop firm deal?**
 
@@ -48,11 +51,11 @@ The newest deal is 15% off. Standing discount codes among these firms run 60% of
 
 ---
 
-## Eid Al-Fitr deal history
+## Eid Al-Fitr Prop Firm Deal History
 
 Total deals tracked: **14**
 
-### 2026 (14 deals)
+### 2026 Eid Al-Fitr Deals (14 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -73,20 +76,19 @@ Total deals tracked: **14**
 
 ---
 
-## About this repository
+## About the Eid Al-Fitr Prop Firm Deals Dataset
 
-This repository mirrors every **Eid Al-Fitr** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of Eid Al-Fitr-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for Eid Al-Fitr on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [Eid Al-Fitr Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/eid/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/eid-al-fitr-prop-firm-deals.json`
+## Eid Al-Fitr Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -116,13 +118,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
