@@ -8,7 +8,7 @@ As of November 2026, the biggest verified Eid Al-Fitr discount codes in the 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Eid Al-Fitr deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Funded Hero | PFD | 65% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) | Ended | [Funded Hero Page](https://propfirmdiscount.com/prop-firm/funded-hero/) |
+| 1 | Funded Hero | PFD | 65% | 65% Off Sitewide Challenge Pricing (Eid Mubarak) (code PFD) | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) | Ended | [Funded Hero Page](https://propfirmdiscount.com/prop-firm/funded-hero/) |
 | 2 | PipFarm | PFDC | 30% | 33% Off Evaluation Pricing and 1% Swap-Free Add-on Structure | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-33-off-all-challenges-eid-al-fitr/) | Ended | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
 | 3 | WeMasterTrade | PFD | 30% | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/) | Ended | [WeMasterTrade Page](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
 | 4 | Finotive Funding | PFDC | 25% | 40% Sitewide Eid Al-Fitr Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-40-sitewide-eid-discount/) | Ended | [Finotive Funding Page](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
@@ -59,8 +59,8 @@ Total deals tracked: **13**
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Forex Funds Flow | Forex Funds Flow: 15% Off Evaluation and Instant Accounts Eid Promotion | 15% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/) |
-| 2026-03-21 | Funded Hero | Funded Hero: 65% Off Sitewide Challenge Pricing (Eid Mubarak) with code PFD | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) |
-| 2026-03-21 | Funded Hero | Funded Hero: 65% Off All Evaluation Accounts During Eid Al-Fitr Promotion with code PFD | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/65-off-all-accounts-eid-al-fitr/) |
+| 2026-03-21 | Funded Hero | Funded Hero: 65% Off Sitewide Challenge Pricing (Eid Mubarak) (code PFD) | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) |
+| 2026-03-21 | Funded Hero | Funded Hero: 65% Off All Evaluation Accounts During Eid Al-Fitr Promotion (code PFD) | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/65-off-all-accounts-eid-al-fitr/) |
 | 2026-03-20 | PipFarm | PipFarm: 33% Off Evaluation Pricing and 1% Swap-Free Add-on Structure | 33% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-33-off-all-challenges-eid-al-fitr/) |
 | 2026-03-20 | Funded Trading Plus | Funded Trading Plus: 15% Reduction on Direct Funding Purchase Cost for Eid Al-Fitr | 15% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-15-off-instant-funding-eid-al-fitr-2026/) |
 | 2026-03-20 | Funded Trading Plus | Funded Trading Plus: 20% Discount on Challenge Pricing for Eid Al-Fitr Offer | 20% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-eid-al-fitr-2026/) |
